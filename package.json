@@ -1,0 +1,23 @@
+{
+  "name": "razvojna-okolina",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gorbekdev/razvojna-okolina.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gorbekdev/razvojna-okolina/issues"
+  },
+  "homepage": "https://github.com/gorbekdev/razvojna-okolina#readme",
+  "dependencies": {
+    "random": "^4.1.0"
+  }
+}
